@@ -1,4 +1,4 @@
-<img src="github-header-image.png" alt="Banner"/>
+<img src="github-header-image.svg" alt="Banner"/>
 
 <div id="badges" align="center">
   <a href="https://t.me/nikitafrolov">
@@ -22,6 +22,11 @@ My background in the hospitality industry helped me develop excellent communicat
 - Passionate about **React**, **TypeScript**, and clean architecture principles  
 - Experienced in **state management**, **testing**, and **micro-frontend architecture**
 - Dedicated to delivering **robust UI** and **smooth user experience**
+
+⚙️ AI & Automation
+
+Building AI-driven features and intelligent developer tools — from conversational agents to adaptive UX systems that extend user interaction and automation capabilities.
+
 
 ---
 
@@ -49,6 +54,17 @@ My background in the hospitality industry helped me develop excellent communicat
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
 
+## 💡 AI Tech Stack
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-1E1E1E?style=for-the-badge&logo=router&logoColor=white)
+![Vercel%20AI%20SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/Claude%20Code-20232A?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white)
+
+
+
 ---
 
 ## 🧰 Tools & Platforms
@@ -62,8 +78,9 @@ My background in the hospitality industry helped me develop excellent communicat
 ![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-2E2E2E?style=for-the-badge&logo=warp&logoColor=white)
 
 ---
-
 <div id="stats" align="center">
-  <img src="https://komarev.com/ghpvc/?username=NikitaFrolov&style=flat-square&color=blue" alt="Profile Views"/>
-  <img src="https://www.codewars.com/users/NikitaFrolov/badges/micro" alt="Codewars Badge"/>
+  <a href="https://www.codewars.com/users/nkt.frlv">
+    <img src="https://www.codewars.com/users/nkt.frlv/badges/small" alt="Codewars Badge" />
+  </a>
 </div>
+
