@@ -108,25 +108,35 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 </div>
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   
-  <!-- Top Languages -->
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKT-FRLV&layout=compact&hide_border=true&theme=dark"
     alt="Top languages" height="170"
   />
 
-</div>
+</div> -->
+
 
 <div align="center">
-
-  <!-- Snake: основной (light) -->
-  <img src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-  <!-- Snake: dark (опционально, если сгенерим отдельный файл) -->
-  <!-- <img src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" /> -->
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake-dark.svg?v=2"
+    />
+    <img
+      alt="snake animation"
+      src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake.svg?v=2"
+    />
+  </picture>
 </div>
+
+<br/>
+<div align="center">
+  <img src="./divider.svg" alt="" width="80%" />
+</div>
+<br/>
+
 
 <div align="center">
   <a href="https://www.codewars.com/users/nkt.frlv">
