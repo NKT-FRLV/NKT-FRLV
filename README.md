@@ -65,7 +65,7 @@ Building AI-driven features and intelligent developer tools — from conversatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="44" alt="Notion" />
 </div>
 
-💡 AI Stack
+### 🤖💡 AI Stack
 <div align="center">
 	<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 	<img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=router&logoColor=white" alt="OpenRouter" />
