@@ -1,5 +1,21 @@
 <img src="github-header-image.svg" alt="Banner"/>
 
+<div align="center" style="position: relative; width: 1280px; height: 320px; margin: auto;">
+  <!-- Фон с сеткой -->
+  <img src="./bg-dark-web.svg" alt="background" 
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1;" />
+
+  <!-- Анимированный Venom -->
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=&fontSize=1&color=0:8871e5,100:b678c4&stroke=b678c4&fontColor=eeeeee&v=1"
+       alt="venom layer"
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;" />
+
+  <!-- Текст -->
+  <img src="./text.svg" alt="title" 
+       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 3;" />
+</div>
+
+
 <h3 align="center">Front-End Developer | React | TypeScript | Next.js</h3>
 
 ---
