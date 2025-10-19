@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="NKT.FRLV — React Dev">
   <defs>
     <!-- Фон -->
-    <radialGradient id="bg" cx="50%" cy="50%" r="70%">
+    <radialGradient id="bg" cx="50%" cy="50%" r="75%">
       <stop offset="0%" stop-color="#000"/>
       <stop offset="100%" stop-color="#0a0a0a"/>
     </radialGradient>
@@ -13,40 +13,79 @@
       <path d="M0 0 V40" stroke="#444" stroke-width="1"/>
     </pattern>
 
-    <!-- Маска затухания сетки -->
-    <radialGradient id="fadeGrad" cx="50%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#fff" stop-opacity="0.95"/>
-      <stop offset="60%" stop-color="#fff" stop-opacity="0.55"/>
+    <!-- Маска затухания сетки (и венома) к краям -->
+    <radialGradient id="fadeGrad" cx="50%" cy="50%" r="80%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#fff" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#000" stop-opacity="0"/>
     </radialGradient>
     <mask id="fadeMask">
       <rect width="100%" height="100%" fill="url(#fadeGrad)"/>
     </mask>
 
-    <!-- Металлический градиент -->
+    <!-- Металлический градиент для ника -->
     <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#f5f6f7"/>
-      <stop offset="35%" stop-color="#e5e7eb"/>
+      <stop offset="38%" stop-color="#e5e7eb"/>
       <stop offset="65%" stop-color="#d1d5db"/>
       <stop offset="100%" stop-color="#9ca3af"/>
     </linearGradient>
 
-    <!-- Градиент для React Developer -->
+    <!-- Градиент для "React Developer" -->
     <linearGradient id="reactText" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#60a5fa"/>
       <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+
+    <!-- ========== VENOM FILTER ========== -->
+    <!-- «Жидкий» шум + смещение, анимация частоты -->
+    <filter id="venom" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.007 0.013" numOctaves="2" seed="7" result="noise">
+        <animate attributeName="baseFrequency" values="0.007 0.013; 0.010 0.016; 0.006 0.012; 0.007 0.013" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="seed" values="7;9;11;7" dur="28s" repeatCount="indefinite"/>
+      </feTurbulence>
+      <feColorMatrix in="noise" type="saturate" values="0.8" result="n1"/>
+      <feDisplacementMap in="SourceGraphic" in2="n1" scale="35" xChannelSelector="R" yChannelSelector="G">
+        <animate attributeName="scale" values="28;38;24;28" dur="12s" repeatCount="indefinite"/>
+      </feDisplacementMap>
+    </filter>
+
+    <!-- Маска «пятна» для венома: мягкий овал в центре -->
+    <radialGradient id="venomMaskGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.9"/>
+      <stop offset="60%" stop-color="#fff" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="venomMask">
+      <rect width="100%" height="100%" fill="url(#venomMaskGrad)"/>
+    </mask>
+
+    <!-- Заливка для «венома» -->
+    <linearGradient id="venomFill" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.10"/>
     </linearGradient>
   </defs>
 
   <!-- Фон -->
   <rect width="100%" height="100%" fill="url(#bg)"/>
 
-  <!-- Сетка -->
+  <!-- Плавающий «venom» слой -->
+  <g mask="url(#venomMask)" filter="url(#venom)">
+    <!-- Большой градиентный прямоугольник, который «жижится» фильтром -->
+    <rect x="-50" y="-50" width="1380" height="420" fill="url(#venomFill)" opacity="0.85">
+      <!-- Едва заметный дрейф по оси X/Y -->
+      <animate attributeName="x" values="-50; -30; -60; -50" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="y" values="-50; -40; -60; -50" dur="22s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- Сетка поверх венома, с затуханием по краям -->
   <g mask="url(#fadeMask)" opacity="0.9">
     <rect width="100%" height="100%" fill="url(#grid)"/>
   </g>
 
-  <!-- Заголовок -->
+  <!-- Центральный текст -->
   <text x="50%" y="54%" text-anchor="middle"
         fill="url(#metal)"
         font-family="'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', system-ui, sans-serif"
@@ -54,7 +93,6 @@
     NKT.FRLV
   </text>
 
-  <!-- Подзаголовок -->
   <text x="50%" y="72%" text-anchor="middle"
         fill="url(#reactText)"
         font-family="'Segoe UI', Roboto, Ubuntu, Cantarell, 'Open Sans', system-ui, sans-serif"
