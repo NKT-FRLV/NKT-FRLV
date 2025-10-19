@@ -1,17 +1,5 @@
 <img src="github-header-image.svg" alt="Banner"/>
 
-<div id="badges" align="center">
-  <a href="https://t.me/nikitafrolov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="mailto:nikitafrolov.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="https://linkedin.com/in/nikita-frolov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
 <h3 align="center">Front-End Developer | React | TypeScript | Next.js</h3>
 
 ---
@@ -76,6 +64,20 @@ Building AI-driven features and intelligent developer tools — from conversatio
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-2E2E2E?style=for-the-badge&logo=warp&logoColor=white)
+
+---
+
+<div id="badges" align="center">
+  <a href="https://t.me/NKT_FRLV">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:marbella.frolov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://linkedin.com/in/nktfrlv">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 ---
 <div id="stats" align="center">
