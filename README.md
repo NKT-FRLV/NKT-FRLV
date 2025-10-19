@@ -77,13 +77,11 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 
 ### 🤖💡 AI Stack
 <div align="center">
-	<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 	<img src="https://img.shields.io/badge/OpenRouter-111111?style=for-the-badge&logo=router&logoColor=white" alt="OpenRouter" />
 	<img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
 	<img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+	<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 	<img src="https://img.shields.io/badge/Anthropic-000000?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
-	<img src="https://img.shields.io/badge/Claude%20Code-20232A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
-	<img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 </div>
 
 <br/>
