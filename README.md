@@ -5,7 +5,7 @@
 
 <br/>
 <div align="center">
-  <img src="./divider.svg" alt="" width="80%" />
+ 	<img src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/main/divider.svg" alt="divider" width="80%" />
 </div>
 <br/>
 
@@ -32,46 +32,46 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 
 <br/>
 <div align="center">
-  <img src="./divider.svg" alt="" width="80%" />
+  <img src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/main/divider.svg" alt="divider" width="80%" />
 </div>
 <br/>
 
 ## 🧠 Tech Stack
 
 ### Front-End
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="44" alt="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="44" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="44" alt="Redux Toolkit" />
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" alt="TypeScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" alt="Next.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="44" alt="Vite" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="44" alt="TailwindCSS" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="44" alt="Redux Toolkit" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zustand/zustand-original.svg" height="44" alt="Zustand" />
 </div>
 
 ### Backend · Data · Infra
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="44" alt="Prisma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub" />
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="44" alt="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="44" alt="Express.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="44" alt="Prisma" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" alt="PostgreSQL" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" alt="MongoDB" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" alt="Docker" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" alt="GitHub" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" alt="Git" />
 </div>
 
 ### Testing · DX · Productivity
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="44" alt="Jest" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="44" alt="Cypress" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44" alt="Playwright" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="44" alt="ESLint" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="44" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="Figma" />
+<div >
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="44" alt="Jest" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="44" alt="Cypress" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" height="44" alt="Playwright" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="44" alt="ESLint" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="44" alt="VS Code" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="Figma" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" height="44" alt="Notion" />
 </div>
 
@@ -86,7 +86,7 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 
 <br/>
 <div align="center">
-  <img src="./divider.svg" alt="" width="80%" />
+  <img src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/main/divider.svg" alt="divider" width="80%" />
 </div>
 <br/>
 
@@ -104,7 +104,7 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 
 <br/>
 <div align="center">
-  <img src="./divider.svg" alt="" width="80%" />
+  <img src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/main/divider.svg" alt="divider" width="80%" />
 </div>
 <br/>
 
@@ -119,21 +119,17 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 
 
 <div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake-dark.svg?v=2"
-    />
-    <img
-      alt="snake animation"
-      src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake.svg?v=2"
-    />
-  </picture>
+  <p align="center">
+  <img
+    alt="snake animation"
+    src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/output/github-contribution-grid-snake-dark.svg"
+  />
+</p>
 </div>
 
 <br/>
 <div align="center">
-  <img src="./divider.svg" alt="" width="80%" />
+  <img src="https://raw.githubusercontent.com/NKT-FRLV/NKT-FRLV/main/divider.svg" alt="divider" width="80%" />
 </div>
 <br/>
 
