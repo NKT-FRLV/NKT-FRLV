@@ -3,28 +3,38 @@
 <h3 align="center">Front-End Developer | React | TypeScript | Next.js</h3>
 <p align="center"><sub>Ethical code. Minimal design. Seamless UX.</sub></p>
 
+<br/>
+<div align="center">
+  <img src="./divider.svg" alt="" width="80%" />
+</div>
+<br/>
+
+## 👤 — About Me
+
+I write **ethical, human-centric code** — clean engineering, **modern minimalist design**, and **seamless UX** working together.
+
+> **Goal:** products that feel effortless — where **performance**, **accessibility**, and **clarity** produce a **flawless user experience**.
+
+**I care about**
+- **Maintainability first.** Elegant, readable code > quick hacks.
+- **Modern tech, thoughtful design.** Tools serve the idea — not reverse.
+- **Simplicity with power.** **Simple, composable interfaces** that scale.
+- **Clear collaboration.** **Direct communication**, shared context, predictable delivery.
+
+**Background**
+- Hospitality taught me **to listen, empathize, and deliver value** — skills I use daily to build **clear, user-centered digital experiences**.
+
 ---
 
-### 🧭 About Me  
-
-I write **ethical, human-centric code**, combining clean engineering with the elegance of modern minimalist design.  
-My goal is to create products that feel seamless — where performance, accessibility, and clarity come together in a **flawless user experience**.
-
-I care about:
-- writing **maintainable and elegant code**, not just working code  
-- integrating **modern technologies** with thoughtful design principles  
-- crafting **simple yet powerful interfaces** that inspire confidence and calm  
-- collaborating through clear communication and genuine curiosity  
-
-My background in hospitality taught me how to **listen, empathize, and deliver value**, which now shapes the way I build digital experiences.
+### ⚙️ AI & Automation
+Building **AI-driven product features** and **intelligent developer tools** — from **conversational agents** to **adaptive UIs** and **automation pipelines** that extend user capability without friction.
 
 
-⚙️ AI & Automation
-
-Building AI-driven features and intelligent developer tools — from conversational agents to adaptive UX systems that extend user interaction and automation capabilities.
-
-
----
+<br/>
+<div align="center">
+  <img src="./divider.svg" alt="" width="80%" />
+</div>
+<br/>
 
 ## 🧠 Tech Stack
 
@@ -76,7 +86,11 @@ Building AI-driven features and intelligent developer tools — from conversatio
 	<img src="https://img.shields.io/badge/LangChain-3B82F6?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
 </div>
 
----
+<br/>
+<div align="center">
+  <img src="./divider.svg" alt="" width="80%" />
+</div>
+<br/>
 
 <div align="center">
   <a href="https://t.me/NKT_FRLV">
@@ -90,7 +104,11 @@ Building AI-driven features and intelligent developer tools — from conversatio
   </a>
 </div>
 
----
+<br/>
+<div align="center">
+  <img src="./divider.svg" alt="" width="80%" />
+</div>
+<br/>
 
 <div align="center">
   <a href="https://www.codewars.com/users/nkt.frlv">
