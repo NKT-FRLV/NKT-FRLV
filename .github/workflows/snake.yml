@@ -3,10 +3,7 @@ name: Generate contribution snake
 on:
   schedule:
     - cron: "0 */12 * * *"   # каждые 12 часов
-  workflow_dispatch:         # запуск вручную из вкладки Actions
-  push:
-    branches: ["main"]       # необязательно: перегенерация при пуше в main
-
+  workflow_dispatch:
 permissions:
   contents: write
 
@@ -17,18 +14,15 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Генерируем SVG со «змейкой»
-      - name: Generate snake SVG
+      - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
           github_user_name: NKT-FRLV
           outputs: |
             dist/github-contribution-grid-snake.svg
-            # при желании — тёмная тема:
-            # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Публикуем в ветку `output` (GitHub Pages-подобный storage)
-      - name: Push snake to output branch
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
