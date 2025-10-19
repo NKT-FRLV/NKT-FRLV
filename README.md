@@ -109,6 +109,26 @@ Building **AI-driven product features** and **intelligent developer tools** — 
 <br/>
 
 <div align="center">
+  
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NKT-FRLV&layout=compact&hide_border=true&theme=dark"
+    alt="Top languages" height="170"
+  />
+
+</div>
+
+<div align="center">
+
+  <!-- Snake: основной (light) -->
+  <img src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+  <!-- Snake: dark (опционально, если сгенерим отдельный файл) -->
+  <!-- <img src="https://github.com/NKT-FRLV/NKT-FRLV/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation dark" /> -->
+
+</div>
+
+<div align="center">
   <a href="https://www.codewars.com/users/nkt.frlv">
     <img src="https://www.codewars.com/users/nkt.frlv/badges/small" alt="Codewars Badge" />
   </a>
